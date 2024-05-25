@@ -6,6 +6,8 @@
 
 You can clone the repository wherever you want (I like to keep it in `~/.dotfiles`). The bootstrapper script will pull in the latest version and copy the files to your home folder.
 
+#### NOTE: Change alex/Ollie's creds to mine and sign commits
+
 ```bash
 cd ~
 git clone git@github.com:olliegilbey/dotfiles.git .dotfiles
